@@ -2,8 +2,11 @@
 Angular 2 simple page to show how to download file 
 
 To use :
+
 1. Download file 
+
 2. Install node_module with : npm install
+
 3. Start with : npm start
 
 
